@@ -31,13 +31,13 @@ class SoftwareEngineer:
     def say_hi(self):
         print("Thanks for visiting my GitHub!")
         
-    def find_me(self):
-        return "@"
+    def find_my_blog(self):
+        return "https://zach-sudo.hashnode.dev/"
 
 
 me = SoftwareEngineer()
 me.say_hi()
-me.find_me()
+me.find_my_blog()
 
 ```
 
