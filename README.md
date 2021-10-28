@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Julia-1.6-purple)
 ![](https://img.shields.io/badge/Docker-20.x-yellow) 
 ![](https://img.shields.io/badge/Hadoop-3.x-orange) 
-
+![](https://img.shields.io/badge/AWS-Ongoing-blue) 
 
 I'm currently doing some awesome stuffs on 
 1. Numerical Optimization + Algorithm Design
