@@ -38,30 +38,6 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 me.find_my_blog()
-
-
-# -*- coding: utf-8 -*-
-
-
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Zach"
-        self.role = "Software Engineer"
-        self.major = "Computational Mathematics"
-        self.language_spoken = ["zh_CN", "en_US", "fr_FR"]
-
-    def say_hi(self):
-        print("Thanks for visiting my GitHub!")
-        
-    def find_my_blog(self):
-        return "https://zach-sudo.hashnode.dev/"
-
-
-me = SoftwareEngineer()
-me.say_hi()
-me.find_my_blog()
-
 ```
 
 
