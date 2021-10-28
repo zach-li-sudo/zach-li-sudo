@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Zach! These are my tech stacks!
+### Hi there 👋, I'm Zach! These are my tech stacks:
 
 ![](https://img.shields.io/badge/Python-3.8-orange) 
 ![](https://img.shields.io/badge/JavaScript-ES6-green) 
 ![](https://img.shields.io/badge/MATLAB-Optimization-red)
 ![](https://img.shields.io/badge/Django-3-blue) 
-![](https://img.shields.io/badge/Vue-3.x-white) 
+![](https://img.shields.io/badge/Vue.js-3.x-white) 
 ![](https://img.shields.io/badge/Julia-1.6-purple)
 ![](https://img.shields.io/badge/Docker-20.x-yellow) 
 ![](https://img.shields.io/badge/Hadoop-3.x-orange) 
@@ -18,7 +18,6 @@ I'm currently doing some awesome stuffs on
 ```python
 #!/usr/anaconda3/envs/py38/python
 # -*- coding: utf-8 -*-
-
 
 class SoftwareEngineer:
 
