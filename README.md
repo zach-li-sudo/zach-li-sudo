@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Zach! These are my tech stacks:
+### Hi there 👋, I'm Zach! 
+
+These are my tech stacks:
 
 ![](https://img.shields.io/badge/Python-3.8-orange) 
 ![](https://img.shields.io/badge/JavaScript-ES6-green) 
