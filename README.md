@@ -16,7 +16,7 @@ I'm currently doing some awesome stuffs on
 1. Numerical Optimization + Algorithm Design
 2. Python/JavaScript Development, Django + Vue.js
 
-> I'm considering moving my posts on hashnode.com to my personal site (Django+Vue3) in the coming months! 
+> I'm gonna move my posts on hashnode.com to my personal site (Django+Vue3) in the coming months! 
 
 > Come 'n' see! 🔥
 
